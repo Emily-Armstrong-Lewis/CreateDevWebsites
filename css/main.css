@@ -152,7 +152,7 @@
 @media screen and (min-width: 1400px) {
 	nav ul a{
 		display: inline-block;
-		width: 33%;
+		width: 24%;
 		padding: 1% 0;
 		margin: 0px;
 	}
@@ -165,7 +165,7 @@
 @media screen and (min-width: 992px) and (max-width: 1399px){
 	nav ul a{
 		display: inline-block;
-		width: 32%;
+		width: 24%;
 		padding: 1% 0;
 		margin: 0px;
 	}
